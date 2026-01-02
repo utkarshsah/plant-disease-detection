@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>End-to-end Deep Learning project to detect plant leaf diseases</b><br>
-  <i>From model training to cloud deployment</i>
 </p>
 
 ---
@@ -131,3 +130,4 @@ git clone https://github.com/USERNAME/plant-disease-detection.git
 cd plant-disease-detection
 pip install -r requirements.txt
 streamlit run app.py
+
